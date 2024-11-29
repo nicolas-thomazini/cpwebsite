@@ -93,6 +93,7 @@ main {
 }
 
 footer, header {	
+    color: #2c2c2c;
     background: none;
     font-family: arial, "Helvtica Neve", sans-serif;
     text-align: center;
